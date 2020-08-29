@@ -26,7 +26,7 @@
 // Data is joined to map using value of 'hc-key' property by default.
 // See API docs for 'joinBy' for more info on linking data and map.
 var data = [
-    ['zw-ma', 18],
+    ['zw-ma', 10],
     ['zw-ms', 1],
     ['zw-bu', 2],
     ['zw-mv', 3],
