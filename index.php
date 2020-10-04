@@ -14,14 +14,15 @@
 
 
 <!-- Scripts -->
-<script src="js/highmaps.js"></script>
-<script src="js/exporting.js"></script>
-<script src="js/zw-all.js"></script>
+<script src="zim-chart/highmaps.js"></script>
+<script src="zim-chart/exporting.js"></script>
+<script src="zim-chart/zw-all.js"></script>
 </body>
 </html>
 
 
 <script>
+
 // Prepare demo data
 // Data is joined to map using value of 'hc-key' property by default.
 // See API docs for 'joinBy' for more info on linking data and map.
